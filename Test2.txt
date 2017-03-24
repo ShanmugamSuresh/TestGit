@@ -1,1 +1,2 @@
-Test file 2 - sdfs dsdfds sdf
+Test file 2 - sdfs dsdfds sdf 
+Checking the fetch functionals
